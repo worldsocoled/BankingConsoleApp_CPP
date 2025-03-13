@@ -41,7 +41,7 @@ The Simple Banking System is a console-based application that demonstrates funda
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/worldsocoled/simple-banking-system.git
+   git clone https://github.com/worldsocoled/BankingConsoleApp_CPP.git
    cd simple-banking-system
 
 ## Contributing
